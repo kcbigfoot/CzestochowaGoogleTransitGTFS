@@ -1,4 +1,2 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-1,ZARZĄD DRÓG MIEJSKICH I KOMUNIKACJI PUBLICZNEJ w Bydgoszczy,http://www.zdmikp.bydgoszcz.pl/pl/transport/,Europe/Warsaw,pl,525822761
-
-
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+1,Miejskie Przedsiębiorstwo Komunikacyjne w Częstochowie Sp. z o.o.,http://www.mpk.czest.pl,Europe/Czestochowa,+48343779100,pl
